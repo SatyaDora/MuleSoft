@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mhh_mfn_4dc">
+    <title>Discover Your Powershell Version in 3 Easy Steps: A Comprehensive Guide</title>
+    <body>
+        
+        <section id="section_fwl_tfn_4dc">
+            <title><b>Key Takeaway:</b></title>
+            <p>Whether you're a seasoned IT professional or just getting started, you can aid with
+                compatibility and troubleshooting by checking the PowerShell version on your Windows
+                10 or 11 machine.</p>
+          
+        </section>
+       
+        <section>
+            <title>How to Verify the Version of PowerShell in Windows 10/11</title>
+            <p>
+                Powershell is a robust solution powered by scripting language and command line shell for cross-platform task automation. 
+                Instead of the.NET Framework, PowerShell uses the latest versions and is compatible with Windows, Linux, and macOS.
+                PowerShell support depends on its.NET version.                
+            </p>
+      
+        </section>
+        <section>
+           
+            <p>You may check the PowerShell version on your Windows 10/11 PC in several methods, such as:.</p>
+        </section>
+      
+        <section>
+            <title>Method 1: </title>
+            <p><b>Use the Power User Menu to Launch PowerShell</b>pening PowerShell from the Power
+                User Menu<image placement="break" href="Dita-Samples/Images/Powershell/1.1"
+                    scale="75" align="center" id="image_tsw_cwn_4dc"/></p>
+        </section>
+        <section><p>
+                <b>Start PowerShell:</b> To launch PowerShell, locate it in the Start menu or select
+                "Windows PowerShell" or "Windows PowerShell (Admin)" from the Power User menu by
+                pressing Win + X. </p>
+            
+        </section>
+        <p><b>Verify Version:</b> Press Enter after entering Get-Host | Select-Object Version in
+                PowerShell.<image id="image_l5p_brn_4dc"/></p>
+        <p>You can also use $PSVersionTable to verify the same thing.</p>
+        <p><b>Method 2:</b>
+            <b>Checking with the Command Prompt</b></p>
+        <p> To launch Command Prompt, either use the Start menu to search for "Command Prompt" or
+            press Win + X to bring up the menu and choose "Command Prompt."Displaying output of the
+            command to check the PowerShell version</p>
+        <p><b>Using the Registry Editor:</b>
+        </p>
+        <p>Use of the Windows Registry is available to you. To begin, launch Registry Editor using
+            the search bar. You may be prompted to allow the software to make modifications to your
+            computer. </p>
+        <p>There are several options in the panel on the left. Software is located in HKLM or
+            HKEY-LOCAL-MACHINE, where you should search.</p>
+        <p>Next, search for Microsoft under the list of software providers, select PowerShell by
+            scrolling down to it, and select the option labeled 3. Next, select PowerShell Engine.
+            The version number will be displayed in the information list that you receive, as shown
+            in the screenshot below.</p>
+        <p><b>Check Version: </b>To determine the installed PowerShell version, look for the
+            PowerShellVersion number on the right.</p>
+        <p>Using the Invoke-Command command listed below, you must modify the ComputerName to the
+            name of your own computer.</p>
+        <p> executing the command with the help of script block {$PSVersion Table.PSVersion} and
+            computer name incorp-eu-101 </p>
+        <p>These are a few quick ways to find out what version of PowerShell is on your Windows 10
+            or 11 machine. Updating PowerShell guarantees you access to the most recent features,
+            security updates, and bug fixes, which improves the security and efficiency of your
+            system.</p>
+        <p> Always make sure you verify the PowerShell version on a regular basis, particularly
+            prior to executing scripts or attempting complex configurations, to prevent
+            incompatibilities and guarantee seamless operations.</p>
+        <p><b>How do I update PowerShell?</b></p>
+        <p>Keeping Windows PowerShell installed and downloading PowerShell 7.2 can help you avoid
+            upgrading due to feature parity issues. Since PowerShell 7 and later are no longer
+            Windows native, you'll need to test all of your scripts before switching to 7 or 7.2.
+            Adaptations are needed for some modules.</p>
+        <p> PowerShell 7 replaces PowerShell Core but works with Windows PowerShell 5.2. Several
+            methods exist. One method is to execute a script in PowerShell. Simply put this cmdlet
+            snippet into PowerShell and hit Enter.</p>
+        <p> Enter “&amp; { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI”.</p>
+        <p>.</p>
+        
+        
+        
+        
+    </body>
+</topic>
