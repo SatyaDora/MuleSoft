@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2026-01-03T23:41:56.6086897+05:30">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Assignment_testing/Google DailogflowCX_User_Manual.docx"
+      AbsoluteSource="file:///C:/Users/TechComm/Desktop/Assignment_testing/Google DailogflowCX_User_Manual.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Google Dialogflow Cx Implementation.htm"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/1 Introduction.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/1 Introduction.htm"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/2 Getting Started.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/2 Getting Started_1.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/2 Getting Started_2.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/2 Getting Started.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/3 Core Concepts.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/3 Core Concepts.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/4 Designing Your Agent.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/4 Designing Your Agent.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/5 Building Intents.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/5 Building Intents_1.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/5 Building Intents_2.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/5 Building Intents_3.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/5 Building Intents.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/6 Creating Entities.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/6 Creating Entities.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/7 Designing Flows.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/7 Designing Flows.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/8 Webhooks.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/8 Webhooks.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/9 Integrations.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/9 Integrations.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/Resources/Images/Google DailogflowCX_User_Manual/10 Versioning Deployment.png"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/10 Versioning Deployment.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../../Content/11 Appendix.htm"
+      TimeStamp="03-01-2026 23:41:47" />
+    <Url
+      Source="../TOCs/Google DailogflowCX_User_Manual.fltoc"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/Google DailogflowCX_User_Manual.flmsp"
+      TimeStamp="03-01-2026 23:41:46" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Google DailogflowCX_User_Manual.css"
+      TimeStamp="03-01-2026 23:41:46" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading1"
+      Style="Word" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading2"
+      Style="Word" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading3"
+      Style="Word" />
+    <Map
+      From="List Paragraph"
+      To="p.ListParagraph"
+      Style="Word" />
+    <Map
+      From="Title"
+      To="p.Title"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>
